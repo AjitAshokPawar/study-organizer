@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  h2 {
+    font-weight: 700;
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .list-group-item {
+    font-size: 1rem;
+  }
+  
